@@ -1,0 +1,12 @@
+{
+  "name": "ui-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/seonhwakei/ui-components.git",
+  "author": "jihoo <jhkim@nadoomodoo.com>",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "chromatic": "^11.28.2"
+  }
+}
